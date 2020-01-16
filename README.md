@@ -8,4 +8,6 @@ https://yuzu-emu.org/help/feature/game-modding/
 The mods themselves are listed here: https://github.com/yuzu-emu/yuzu/wiki/Switch-Mods
 
 ## Credits:
-theboy181
+[theboy181](https://github.com/theboy181)
+
+[Michele](https://github.com/slashiee)
