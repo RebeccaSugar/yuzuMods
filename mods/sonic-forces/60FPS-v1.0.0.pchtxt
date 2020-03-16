@@ -1,0 +1,14 @@
+@nsobid-A6A61AE32DFE1F721D3308281888C63600000000
+        
+# Sonic Forces - 60FPS v1.0.0
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 60FPS Hack
+
+@enabled
+006048D4 085EA852
+@stop
+
+@theboy181
